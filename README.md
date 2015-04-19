@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/Givonaldo/{repo}/raw/{branch}/path/to/image.gif)
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/img/gpo_logo.jpg
  
  Gerenciador de Processos Orçamentários - GPO.
  
