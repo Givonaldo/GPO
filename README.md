@@ -1,5 +1,5 @@
-
-
+[![Build Status](https://travis-ci.org/Givonaldo/GPO.svg)](https://travis-ci.org/Givonaldo/GPO)
+ 
 ![Alt Text](https://github.com/Givonaldo/GPO/blob/master/img/gpo_logo.jpg)
  
 # Gerenciador de Processos Orçamentários
@@ -8,13 +8,13 @@
  
 #### Identificação da Equipe
  ```
- Gilvonaldo Alves da Silva Cavalcanti, docente do curso Superior de Tec. Em Análise e 
- Desenvolvimento de Sistemas,  givonaldoc@gmail.com. João Batista Nunes Bezerra, docente 
- do curso Superior de Tec. Em Análise e Desenvolvimento de Sistemas, lockenunes@gmail.com.
+ Gilvonaldo Alves da Silva Cavalcanti, docente do curso Superior de Tec. Em 
+ Análise e Desenvolvimento de Sistemas,  givonaldoc@gmail.com. João Batista 
+ Nunes Bezerra, docente do curso Superior de Tec. Em Análise e Desenvolvimento 
+ de Sistemas, lockenunes@gmail.com.
  
  ```
 =========== 
-
 
  - PREPARO, APLICAÇÃO E REGISTRO DAS TÉCNICAS DE LEVANTAMENTO DE REQUISITOS
 
