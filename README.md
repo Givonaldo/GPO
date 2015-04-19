@@ -1,7 +1,7 @@
 
 ![Alt Text](https://github.com/Givonaldo/GPO/blob/master/img/gpo_logo.jpg)
  
-# Gerenciador de Processos Orçamentários - GPO.
+# Gerenciador de Processos Orçamentários
  
  - IDENTIFICAÇÃO DA EQUIPE
  
@@ -44,6 +44,38 @@
  de mais pessoal. Ainda, o sistema deverá promover uma maior segurança e integridade das informações tratadas pelo setor, fundamental 
  para uma maior transparência no uso de recursos públicos.
 
+ - PROJETO FUNCIONAL DE CASOS DE USO COM UML (DIAGRAMA DE CASOS DE USO)
 
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/casoDeUso.png)
 
+ - DIAGRAMA DE ATIVIDADES
 
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeAtividades.png)
+
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeAtividade2.png)
+
+ - DIAGRAMA DE CLASSE
+
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeClasse.png)
+
+ - DIAGRAMAS DE SEQUÊNCIA
+ 
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeSequencia2.png)
+
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeSequencia3.png)
+
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeSequencia4.png)
+
+ - DIAGRAMAS DE ESTADOS
+ 
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeEstado1.png)
+
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeEstado2.png)
+
+ - DIAGRAMA DE COMPONENTES
+ 
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeComponentes.png)
+
+ - DIAGRAMA DE IMPLEMENTAÇÃO
+ 
+![Alt Text](https://github.com/Givonaldo/GPO/blob/master/target/Artefatos/diagramaDeImplantação.png)
