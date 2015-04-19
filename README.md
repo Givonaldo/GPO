@@ -1,7 +1,7 @@
 
 ![Alt Text](https://github.com/Givonaldo/GPO/blob/master/img/gpo_logo.jpg)
  
- # Gerenciador de Processos Orçamentários - GPO.
+# Gerenciador de Processos Orçamentários - GPO.
  
  - IDENTIFICAÇÃO DA EQUIPE
  
