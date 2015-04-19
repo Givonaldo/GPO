@@ -4,6 +4,8 @@
  
 # Gerenciador de Processos Orçamentários
  
+[![Build status](https://ci.appveyor.com/api/projects/status/github/krlmlr/r-appveyor?branch=master)](https://ci.appveyor.com/nuget/gpo-8rrdxy96dybh)
+ 
 ============
  
 #### Identificação da Equipe
