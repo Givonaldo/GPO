@@ -1,17 +1,19 @@
 package br.com.ifpb.demostrativos;
 
+import net.sf.jasperreports.engine.JasperPrint;
+
 import com.sun.xml.xsom.impl.scd.Iterators.Map;
 
 public abstract class Report<T> implements Exportavel {
 
 	private Map<String, Object> parametros;
 
-	public void gerarRelatorio(Map<String, Object> parametro) {
-
+	public JasperPrint gerarRelatorio(Map<String, Object> parametro) {
+		return null;//------
 	}
 
-	public void mapearDados(T objeto) {
-
+	public Map<String, Object> mapearDados(T objeto) {
+		return null;//------
 	}
 
 	public Map<String, Object> getParametros() {
